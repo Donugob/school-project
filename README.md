@@ -7,7 +7,7 @@
 
 ---
 
-## 🏛️ Project Details
+##  Project Details
 
 | Field | Details |
 | :--- | :--- |
@@ -18,7 +18,7 @@
 
 ---
 
-## 📝 Abstract
+##  Abstract
 
 Cybercrime has become a significant challenge in Nigeria, prompting the enactment of the Cybercrimes Act 2015 to provide a legal framework for its prevention and prosecution. Despite this legislative framework, questions remain regarding the effectiveness of cybercrime prosecution in practice.
 
@@ -33,7 +33,7 @@ This study seeks to examine the challenges associated with prosecuting cybercrim
 
 ---
 
-## 📚 Project Structure
+##  Project Structure
 
 This research is organized into the following chapters:
 
@@ -45,7 +45,7 @@ This research is organized into the following chapters:
 
 ---
 
-## 🔎 Methodology
+##  Methodology
 
 The research adopts a **doctrinal methodology**, relying on:
 1.  Statutory analysis
@@ -57,11 +57,11 @@ The research adopts a **doctrinal methodology**, relying on:
 
 ---
 
-## 📄 License
+##  License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-## 📬 Contact
+##  Contact
 
 For inquiries regarding this research, please contact:
 **Email:** [contactugob@gmail.com](mailto:contactugob@gmail.com)
