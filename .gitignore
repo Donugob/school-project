@@ -1,0 +1,9 @@
+# Office Temporary Files
+~$*
+.~*
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
